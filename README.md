@@ -30,4 +30,4 @@ The best dashboard explaination format.
 
 Screenshot / Demos
 Health Care Project screenshot - https://github.com/Mehak-yadav12/Health-Care-Project/blob/main/HOSPITAL%20DASHBOARD%20Screenshot.PNG
-Health Care Project -
+Health Care Project -https://github.com/Mehak-yadav12/Health-Care-Project/blob/main/HOSPITAL%20DASHBOARD.pbix
