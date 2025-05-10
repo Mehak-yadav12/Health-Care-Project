@@ -29,3 +29,5 @@ The best dashboard explaination format.
 - Walk through of the key visuals
 
 Screenshot / Demos
+Health Care Project screenshot - https://github.com/Mehak-yadav12/Health-Care-Project/blob/main/HOSPITAL%20DASHBOARD%20Screenshot.PNG
+Health Care Project -
